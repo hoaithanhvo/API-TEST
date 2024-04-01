@@ -1,0 +1,6 @@
+@MCSAndroidAPI_HostAddress = http://localhost:5221
+
+GET {{MCSAndroidAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
